@@ -1,0 +1,7 @@
+intervaltree
+numpy
+pandas
+pyvcf3
+pyyaml
+pypeliner @ git+https://github.com/shahcompbio/pypeliner.git@7ddb5c3d061f998269f478a203cc8820b9fe1d18
+wgs @ git+https://github.com/shahcompbio/wgs.git@12f49aa1584f95945d14df0ecfe202264805fe14
