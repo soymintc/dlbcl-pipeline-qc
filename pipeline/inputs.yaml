@@ -1,0 +1,5 @@
+CTSP-ACZO:
+  normal: /rtsess01/compute/juno/shah/users/chois7/tickets/akansha-pipeline-qc/testrun/CTSP-ACZU-NB1-A-1-0-D-A889-36.WholeGenome.RP-1329.MYC.bam # fix
+  normal_id: CTSP-ACZO-NB1-A-1-0-D-A889-36
+  tumour: /rtsess01/compute/juno/shah/users/chois7/tickets/akansha-pipeline-qc/testrun/CTSP-ACZU-TTP1-A-1-1-D-A889-36.WholeGenome.RP-1329.MYC.bam # fix
+  tumour_id: CTSP-ACZO-TTP1-A-1-1-D-A889-36
